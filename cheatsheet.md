@@ -61,12 +61,12 @@ Rules:
 ^2.5.5 
 <ul>
   <li> `^`   fix major </li>
-`~`   fix major and minor
-`>`   greater than specified version
-`>=`
-`<`
-`<=`
-`=`   
-`-`   range from - to
-`||`  `>2.4.0 || < 1.3.0`
+<li>`~`   fix major and minor</li>
+<li>`>`   greater than specified version</li>
+<li>`>=`</li>
+<li>`<`</li>
+<li>`<=`</li>
+<li>`=`   </li>
+<li>`-`   range from - to</li>
+<li>`||`  `>2.4.0 || < 1.3.0`</li>
                          </ul>

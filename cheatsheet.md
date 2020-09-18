@@ -59,13 +59,14 @@ Major.minor.patch
 Semantic Versioning semver
 Rules: 
 ^2.5.5 
-
-^   fix major 
-~   fix major and minor
->   greater than specified version
->=
-<
-<=
-=   
--   range from - to
-||  >2.4.0 || < 1.3.0
+<ul>
+  <li> `^`   fix major </li>
+`~`   fix major and minor
+`>`   greater than specified version
+`>=`
+`<`
+`<=`
+`=`   
+`-`   range from - to
+`||`  `>2.4.0 || < 1.3.0`
+                         </ul>

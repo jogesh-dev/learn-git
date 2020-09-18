@@ -5,7 +5,7 @@
 sudo in mac
 `npm help <cmd>`
 `npm <cmd> -h`
-`npm help-search jquery`
+`npm help-search init`
 
 ### config
 `npm config get init-author-name`
